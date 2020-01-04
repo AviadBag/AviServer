@@ -1,0 +1,5 @@
+Network:
+start(int port)
+get(path, callback)
+post(path, (req) => res)
+stop()
